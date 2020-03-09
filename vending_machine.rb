@@ -21,6 +21,6 @@ end
 vending_machine = VendingMachine.new
 p vending_machine.insert_money(100)
 p vending_machine.insert_money(100)
-puts vending_machine.money_total
+p vending_machine.money_total
 p vending_machine.refund
 p vending_machine.money_total
